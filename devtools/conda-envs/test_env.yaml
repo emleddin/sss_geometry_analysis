@@ -10,7 +10,11 @@ dependencies:
   - pytest-cov
   - codecov
 
+  # Dependencies
+  - numpy
+
     # Pip-only installs
   #- pip:
   #  - codecov
 
+# channels : stuff like conda-forge
